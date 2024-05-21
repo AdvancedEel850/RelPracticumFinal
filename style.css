@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+    z-index: -1;
+}
+.canvas
+{
+    width: max-content;
+    height: max-content;
+}
