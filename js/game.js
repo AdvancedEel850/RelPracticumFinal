@@ -69,7 +69,7 @@ const player = new Player({
 })
 const thought = new thoughtBubble({
     collisionBlocks,
-    imageSrc:'./img/Thought.png',
+    imageSrc:'./img/thought.png',
     frameRate: 8,
     animations: {
         idleLeft: {
